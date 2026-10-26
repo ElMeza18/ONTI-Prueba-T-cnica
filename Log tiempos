@@ -1,0 +1,18 @@
+## Log de tiempos
+
+
+- Inicio del proyecto:	30 min.	Creación del proyecto base con Vite + React, configuración inicial y estructura del repositorio.
+
+- Diseño y maquetación de la Home:	1 – 2 h.	Implementación del layout principal, estilos glassmorphism, composición visual y ajuste del sistema visual inicial.
+
+- Integración de referencias y assets:	30 min.	Carga de iconos, tipografías, capturas de referencia y revisión visual con base en Figma y recursos del proyecto.
+
+- Desarrollo de funcionalidades core:	2 – 3 h.	Crear nota, editar nota, eliminar nota, búsqueda, filtros y lógica de interacción de la Home.
+
+- Notificaciones y recordatorios:	1 h.	Construcción del sistema de recordatorios, avisos y lógica temporal asociada a las notas.
+
+- Persistencia y CRUD real:	30 min.	Ajuste final para que la app funcione con localStorage, sin datos dummy ni estados temporales artificiales.
+
+- Ajustes responsive y UX móvil:	20 min.	Corrección de layout, botón flotante en móvil, alineación, espaciado y mejora visual en pantallas pequeñas.
+
+-Validación y despliegue:	40 min.	Build final, revisión de funcionamiento, configuración de GitHub Pages y publicación.
