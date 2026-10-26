@@ -26,6 +26,10 @@ Está organizado como un proyecto Vite + React, organizado de manera independien
     deploy.yml: workflow para publicar en GitHub Pages.
     Archivos como Instrucciones de proyecto.md y otros .instructions.md sirven como guía para las funcionalidades.
 
+## Diseño
+
+Link al proyecto de Figma público: https://www.figma.com/design/rqQGM4ZUGicM2zzffpQbUv/ONTI?node-id=1-146&t=Rm0NavqIUDuuwQU5-1
+
 ## Cómo correrlo
 
 Para poder correr la app, basta con entrar al siguiente link:
